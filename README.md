@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis - Excel|Power BI| SQL
+# Bank-Loan-Analysis 
 This project involves analyzing bank loan data to uncover patterns and insights that can help in making informed business decisions, such as identifying factors that impact loan approval and customer segmentation.
 
 Live Dashboard - [Click here](https://app.powerbi.com/view?r=eyJrIjoiOTZiZDY2MmUtMjhlNS00NDFiLThmYTItMjQ2MGY2MzAzZWZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
