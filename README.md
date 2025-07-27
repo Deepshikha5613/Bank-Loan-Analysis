@@ -1,8 +1,7 @@
 # Bank-Loan-Analysis 
 This project involves analyzing bank loan data to uncover patterns and insights that can help in making informed business decisions, such as identifying factors that impact loan approval and customer segmentation.
 
-Live Dashboard - [Click here](https://app.powerbi.com/view?r=eyJrIjoiOTZiZDY2MmUtMjhlNS00NDFiLThmYTItMjQ2MGY2MzAzZWZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
+Live Dashboard - [Click here](https://app.powerbi.com/groups/me/reports/7f5a5cdb-3cf1-4308-826c-c872ce28b0fa/8fc5096b11ad69604a92?experience=power-bi)
 # Table of Contents
 
 * Project Overview
